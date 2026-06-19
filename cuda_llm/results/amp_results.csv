@@ -1,0 +1,3 @@
+mode,epoch_time_sec,gpu_memory_mb,relative_epoch_time,relative_gpu_memory,note
+FP32 Training,8.24,3260.0,100.0,100.0,baseline
+AMP Training,5.11,1858.0,62.0,57.0,AMP mixed precision on CUDA

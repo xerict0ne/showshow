@@ -1,0 +1,2 @@
+results/ and figures/ are included with .gitkeep placeholder files.
+After running `python scripts/run_all.py`, CSV files will be generated under results/ and PNG figures under figures/.
