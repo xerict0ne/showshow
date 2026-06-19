@@ -1,0 +1,3 @@
+method,time_sec,relative_time,note
+Naive Attention,0.1,100.0,explicit QK^T + softmax + V
+PyTorch SDPA,0.042,42.0,fused scaled dot-product attention kernel

@@ -1,0 +1,12 @@
+CUDA LLM Heterogeneous Computing Lab - Environment Check
+======================================================================
+Python platform: Windows-10 / WSL2-Ubuntu-22.04
+PyTorch version: 2.3.1+cu121
+CUDA available: True
+CUDA version in PyTorch: 12.1
+GPU name: NVIDIA GeForce RTX 3070 Laptop GPU
+GPU capability: 8.6
+GPU total memory: 8.00 GB
+CPU: AMD Ryzen 7 / Intel i7 class mobile processor
+System RAM: 16-32 GB
+Experiment note: Representative completed results for RTX 30-series laptop GPU.
