@@ -1,6 +1,0 @@
-operation,cuda_time_us,cuda_time_share,note
-GEMM / matmul,56000.0,56.0,derived from torch.autograd.profiler
-Attention,24000.0,24.0,derived from torch.autograd.profiler
-Softmax,8000.0,8.0,derived from torch.autograd.profiler
-Memory copy,7000.0,7.0,derived from torch.autograd.profiler
-Other,5000.0,5.0,derived from torch.autograd.profiler

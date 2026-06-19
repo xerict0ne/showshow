@@ -1,4 +1,0 @@
-precision,latency_sec,relative_latency,note
-FP32,0.1,100.0,baseline
-FP16,0.058,58.0,half precision on CUDA Tensor Core path
-INT8-sim,0.039,39.0,"simulation, not real TensorRT INT8 kernel"

@@ -1,5 +1,0 @@
-size,cpu_time_sec,gpu_time_sec,speedup,device
-512,0.0084,0.006,1.4,cuda
-1024,0.0719,0.0124,5.8,cuda
-2048,0.594,0.0319,18.62,cuda
-4096,4.9685,0.095,52.3,cuda
